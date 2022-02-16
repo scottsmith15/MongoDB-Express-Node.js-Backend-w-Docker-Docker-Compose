@@ -1,3 +1,4 @@
+
 # Angular Tutorial: Learn Angular from scratch step by step REST API
 
 This project is a Loopback API used in part 2 of [Learn Angular from scratch step by step tutorial](https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step) where we explore from the basic concepts and why’s of Angular to building a complete Angular 7 app with the MEAN stack.
